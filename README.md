@@ -4,7 +4,9 @@ This repository contains the documentation website code and Markdown source file
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
-Use the table of contents icon <img src="Home/Documents/myownwork/alpha.jpg" width="25" height="25" /> on the top left corner of this document to navigate to a specific section quickly.
+<img src="https://github.com/hackertaha/hack-docs/assets/102097786/d1fba70b-96ae-47bd-ad25-388aeacd28c0" width="300px" height="300px">
+
+Use the table of contents icon  on the top left corner of this document to navigate to a specific section quickly.
 
 ## Contributing
 
